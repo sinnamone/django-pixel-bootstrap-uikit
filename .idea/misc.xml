@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 2.7.15 (sftp://spuccio@10.39.191.39:22/home/spuccio/miniconda3/envs/rnaseq_env/bin/python)" project-jdk-type="Python SDK" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="DEPLOYMENT_SERVER" />
+    <option name="myConnectionId" value="a270fb4a-a6ef-48cb-b752-143befd9b64c" />
+  </component>
+</project>

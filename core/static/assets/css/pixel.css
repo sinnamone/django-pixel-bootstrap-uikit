@@ -99,9 +99,11 @@ body {
     font-weight: 300;
     line-height: 1.5;
     color: #424767;
-    text-align: left;
+    text-align: center;
     background-color: #ffffff;
 }
+
+
 
 [tabindex="-1"]:focus:not(:focus-visible) {
     outline: 0 !important;
@@ -431,7 +433,7 @@ h2, .h2 {
 }
 
 h3, .h3 {
-    font-size: 1.75rem;
+    font-size: 1.50rem;
 }
 
 @media (max-width: 1200px) {
@@ -9458,7 +9460,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-    background-color: #242e4c !important;
+    background-color: #007953 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -11711,7 +11713,7 @@ button.bg-gray-800:focus {
 
 .pb-6,
 .py-6 {
-    padding-bottom: 5rem !important;
+    padding-bottom: 20 px;
 }
 
 .pl-6,
@@ -11725,7 +11727,7 @@ button.bg-gray-800:focus {
 
 .pt-7,
 .py-7 {
-    padding-top: 8rem !important;
+    padding-top: 20 px;
 }
 
 .pr-7,
@@ -25439,7 +25441,7 @@ button.section-gray-800:focus {
  * = Sections
  */
 .section {
-    position: relative;
+    position: bg-primary;
     padding-top: 3rem;
     padding-bottom: 3rem;
 }
@@ -25475,7 +25477,7 @@ button.section-gray-800:focus {
 
     .section-lg {
         padding-top: 8rem;
-        padding-bottom: 8rem;
+        padding-bottom: 0rem;
     }
 
     .section-sm {
